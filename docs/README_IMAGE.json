@@ -1,0 +1,14 @@
+{
+  "src": "assets/screenshots/nes-tiny-toon-adventures-kr-patch.png",
+  "caption": "한글 타이틀",
+  "kind": "runtime",
+  "width": 256,
+  "height": 240,
+  "source": "Games/Tiny Toon Adventures/qa/title/kr_smoke_001/frame_0240.png",
+  "sourceSHA256": "00a6db5868f7fb989b80ebaa40f1820694bb38790f1f9e6acac514013f81f69e",
+  "assetSHA256": "00a6db5868f7fb989b80ebaa40f1820694bb38790f1f9e6acac514013f81f69e",
+  "pixelSHA256": "aac0b863b3e7fd7f45b0f90fa7269333c946654b568aa06a972c75bf351b5039",
+  "sourceNote": "kr_smoke_001 Mesen 캡처",
+  "readmeAsset": "img/preview.png",
+  "displayNote": "kr_smoke_001 Mesen 캡처"
+}
