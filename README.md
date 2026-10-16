@@ -38,3 +38,8 @@
 ## 소스 및 작업 기록
 
 [공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt)
+
+
+## 최종 빌드 재현
+
+[원본에서 재현하는 명령과 필수 입력](docs/REBUILD_RELEASE.md)을 확인하세요. 기존 패치의 결과와 같은 SHA를 생성하며, 새 플레이 검수 결과를 뜻하지 않습니다.
