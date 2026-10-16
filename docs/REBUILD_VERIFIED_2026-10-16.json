@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "part": 1,
+  "source_sha256": "73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd",
+  "target_sha256": "d57b816fce99d99eb700ebecc3d2397a1d039418ead3b1233d720c712fb2df3d",
+  "target_bytes": 524304,
+  "ROM": "build\\final_reproduced\\TinyToon_dialogue_full.nes",
+  "source_ExpectedWrites": 7,
+  "source_guards_and_full_replay": "PASS",
+  "IPS_apply_byte_exact": true,
+  "original_input_unchanged": true,
+  "inputs_verified": 90,
+  "emulator": "NOT_RUN",
+  "visual_QA": "NOT_RUN",
+  "full_playthrough": "NOT_RUN",
+  "verified_source_commit": "423c9f421dec9a5a8394f78a5a2b90f99df94c86",
+  "repository": "https://github.com/akuma815/nes-tiny-toon-adventures-kr-patch.git",
+  "remote_fresh_clone": true,
+  "public_release_url": "https://github.com/akuma815/nes-tiny-toon-adventures-kr-patch/releases/tag/v1.0.1",
+  "public_zip_sha256": "d3bf3ae72fe6567fd5386aa7db2be07d94da1c1092d4ac1c3866cc31f2b4baa7",
+  "public_digest_matches": true,
+  "public_zip_files": 11,
+  "public_zip_ROM_free": true,
+  "public_xdelta_sha256": "03d916e0440fdd52fe97c0223dfbac6931ea15a0dd7c36acdd4a10ae00620878",
+  "public_xdelta_applied_matches_rebuild": true,
+  "source_manifest_all_tracked": true,
+  "wrong_original_rejected": true,
+  "external_font_sha256": {
+    "Galmuri7_8x8.png": "a2be473e22a62942164c95db60f3f5aa88a99f76b525994d194e9f5f9df387ea",
+    "Galmuri7.ttf": "3882bd35066c26b0392cd4963ff9b3c151041dec34adc9d5633d137d1d9b9855"
+  }
+}
