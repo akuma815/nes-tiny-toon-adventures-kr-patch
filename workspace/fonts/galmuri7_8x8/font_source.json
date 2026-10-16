@@ -1,0 +1,31 @@
+{
+  "family": "Galmuri7",
+  "requested_asset": "Galmuri7_8x8.png",
+  "cell_px": [
+    8,
+    8
+  ],
+  "atlas_px": [
+    512,
+    1400
+  ],
+  "atlas_columns": 64,
+  "atlas_first_codepoint": "U+AC00",
+  "atlas_order": "Hangul syllables in Unicode order; trailing 28 empty cells",
+  "pixel_mask": "nonzero alpha and RGB maximum >127; no scaling of glyph cells",
+  "companion_font": "Galmuri7.ttf",
+  "companion_usage": "ASCII ~ only in this PoC; native 8px, no antialiasing",
+  "local_ttf_version": "Version 2.403;hotconv 1.1.1;makeotfexe 2.6.0 DEVELOPMENT",
+  "local_ttf_copyright": "Copyright (c) 2019-2025 Lee Minseo (quiple@quiple.dev)",
+  "font_source_url": "https://github.com/quiple/galmuri",
+  "license_url": "https://raw.githubusercontent.com/quiple/galmuri/main/ofl.md",
+  "license": "SIL OFL 1.1",
+  "hangul_mapping_checks": 156,
+  "hangul_mapping_mismatches": 0,
+  "source_sha256": {
+    "Galmuri7_8x8.png": "a2be473e22a62942164c95db60f3f5aa88a99f76b525994d194e9f5f9df387ea",
+    "Galmuri7.ttf": "3882bd35066c26b0392cd4963ff9b3c151041dec34adc9d5633d137d1d9b9855",
+    "OFL.md": "9a9e5a342c430c3fcf01a408b680f4405d5bf4ac659c931be35f8a1b27ea69c9",
+    "font_mapping_checks.json": "51e226b89b4aca00a792c175b0468b8a2fb85a8a58b25d7051c3d2152660196e"
+  }
+}

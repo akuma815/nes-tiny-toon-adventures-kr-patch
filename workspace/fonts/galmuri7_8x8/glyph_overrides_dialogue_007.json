@@ -1,0 +1,15 @@
+{
+  "?": {
+    "rows": [
+      "###.###.",
+      "#.#...#.",
+      "###.###.",
+      "...#..#.",
+      ".#####..",
+      "...#....",
+      "..#.#...",
+      "........"
+    ],
+    "reason": "Separate mieum and yeo, keep chieut dot and branching strokes within 8x8."
+  }
+}

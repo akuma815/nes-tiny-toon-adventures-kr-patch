@@ -1,0 +1,163 @@
+﻿entry_id,scene,speaker,speaker_en,speaker_status,addressee,original_jp,translation_ko,status,speaker_basis,source_urls,script_ids,file_offset,end_exclusive,source_tokens,raw_hex,source_sha256,notes
+JP_17477,햄튼의 당근 교환 / 추가 잔기,햄튼 J. 피그,Hamton J. Pig,확정: 자기소개 / 후속 대사 문맥,버스터와 동료 / 플레이어,"やあ ぼくはハムトン
+
+","안녕, 난 햄튼이야
+
+",untranslated,00–05 공통 스크립트에서 ハムトン으로 자기소개. 당근 30개와 잔기 보상은 공식 게임 설명서의 Hamton 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,"00,01,02,03,04,05",0x17477,0x1748B,"{speed:03}{position:04,04}{tile:24}{tile:01}{tile:00}{tile:1E}{tile:33}{tile:08}{tile:1A}{tile:5A}{tile:5F}{tile:57}{tile:66}{br}{br}{delay:46}",F8 03 F6 04 04 24 01 00 1E 33 08 1A 5A 5F 57 66 F5 F5 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_1748C,햄튼의 당근 교환 / 추가 잔기,햄튼 J. 피그,Hamton J. Pig,확정: 자기소개 / 후속 대사 문맥,버스터와 동료 / 플레이어,"きみがもってきた にんじん
+
+30ぽんでのこりすうを
+
+ひとり ふやしてあげるよ","네가 가져온 당근
+
+30개마다 목숨을
+
+하나 늘려 줄게",untranslated,00–05 공통 스크립트에서 ハムトン으로 자기소개. 당근 30개와 잔기 보상은 공식 게임 설명서의 Hamton 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,"00,01,02,03,04,05",0x1748C,0x174BB,{tile:07}{tile:20}{tile:06}{tile:33}{tile:23}{tile:32}{tile:13}{tile:07}{tile:10}{tile:00}{tile:16}{tile:2E}{tile:0C}{tile:33}{tile:2E}{br}{br}{tile:3A}{tile:3B}{tile:1E}{tile:34}{tile:2E}{tile:13}{tile:33}{tile:19}{tile:0A}{tile:28}{tile:0D}{tile:03}{tile:2D}{br}{br}{tile:1B}{tile:14}{tile:28}{tile:00}{tile:1C}{tile:24}{tile:0C}{tile:13}{tile:01}{tile:09}{tile:33}{tile:29}{tile:26}{delay:46},07 20 06 33 23 32 13 07 10 00 16 2E 0C 33 2E F5 F5 3A 3B 1E 34 2E 13 33 19 0A 28 0D 03 2D F5 F5 1B 14 28 00 1C 24 0C 13 01 09 33 29 26 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_174BD,햄튼의 당근 교환 / 추가 잔기,햄튼 J. 피그,Hamton J. Pig,확정: 자기소개 / 후속 대사 문맥,버스터와 동료 / 플레이어,"それじゃ いくつあるのか
+
+かぞえてみるね","그럼 몇 개인지
+
+세어 볼게",untranslated,00–05 공통 스크립트에서 ハムトン으로 자기소개. 당근 30개와 잔기 보상은 공식 게임 설명서의 Hamton 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,20,0x174BD,0x174D8,{speed:03}{tile:0F}{tile:2A}{tile:0C}{tile:33}{tile:2F}{tile:00}{tile:02}{tile:08}{tile:12}{tile:01}{tile:29}{tile:19}{tile:06}{br}{br}{tile:06}{tile:0F}{tile:33}{tile:04}{tile:13}{tile:20}{tile:29}{tile:18}{delay:46},F8 03 0F 2A 0C 33 2F 00 02 08 12 01 29 19 06 F5 F5 06 0F 33 04 13 20 29 18 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_174D9,햄튼의 당근 교환 / 추가 잔기,햄튼 J. 피그,Hamton J. Pig,확정: 자기소개 / 후속 대사 문맥,버스터와 동료 / 플레이어,"・・・・・ざんねんだけど
+
+ちょっと にんじんが
+
+すくなかったみたいだね",".....아쉽지만
+
+당근이 조금
+
+모자란 것 같아",untranslated,00–05 공통 스크립트에서 ハムトン으로 자기소개. 당근 30개와 잔기 보상은 공식 게임 설명서의 Hamton 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,21,0x174D9,0x17508,{speed:03}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:0B}{tile:33}{tile:2E}{tile:18}{tile:2E}{tile:10}{tile:33}{tile:09}{tile:14}{tile:33}{br}{br}{tile:11}{tile:31}{tile:32}{tile:14}{tile:00}{tile:16}{tile:2E}{tile:0C}{tile:33}{tile:2E}{tile:06}{tile:33}{br}{br}{tile:0D}{tile:08}{tile:15}{tile:06}{tile:32}{tile:10}{tile:20}{tile:10}{tile:02}{tile:10}{tile:33}{tile:18}{delay:46},F8 03 39 39 39 39 39 0B 33 2E 18 2E 10 33 09 14 33 F5 F5 11 31 32 14 00 16 2E 0C 33 2E 06 33 F5 F5 0D 08 15 06 32 10 20 10 02 10 33 18 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_1750C,햄튼의 당근 교환 / 추가 잔기,햄튼 J. 피그,Hamton J. Pig,확정: 자기소개 / 후속 대사 문맥,버스터와 동료 / 플레이어,"もっと たくさんあつめて
+
+また あいにきてね","당근을 더 많이 모아서
+
+다시 찾아와",untranslated,00–05 공통 스크립트에서 ハムトン으로 자기소개. 당근 30개와 잔기 보상은 공식 게임 설명서의 Hamton 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,18,0x1750C,0x17525,{speed:03}{tile:23}{tile:32}{tile:14}{tile:00}{tile:10}{tile:08}{tile:0B}{tile:2E}{tile:01}{tile:12}{tile:22}{tile:13}{br}{br}{tile:1F}{tile:10}{tile:00}{tile:01}{tile:02}{tile:16}{tile:07}{tile:13}{tile:18},F8 03 23 32 14 00 10 08 0B 2E 01 12 22 13 F5 F5 1F 10 00 01 02 16 07 13 18,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17530,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"つぎのエリアは
+
+プラッキー・ダックを
+
+つれていくといいわよ","다음 구역엔
+
+플러키 덕을
+
+데려가는 게 좋겠어",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,07,0x17530,0x17552,{tile:12}{tile:07}{tile:33}{tile:19}{tile:4E}{tile:63}{tile:4C}{tile:1A}{br}{br}{tile:5C}{tile:34}{tile:62}{tile:69}{tile:50}{tile:67}{tile:39}{tile:55}{tile:33}{tile:69}{tile:51}{tile:2D}{br}{br}{tile:12}{tile:2A}{tile:13}{tile:02}{tile:08}{tile:14}{tile:02}{tile:02}{tile:2C}{tile:26},12 07 33 19 4E 63 4C 1A F5 F5 5C 34 62 69 50 67 39 55 33 69 51 2D F5 F5 12 2A 13 02 08 14 02 02 2C 26,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17559,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"つぎのエリアは
+
+デイジーデビルを
+
+つれていくといいわよ","다음 구역엔
+
+디지 데블을
+
+데려가는 게 좋겠어",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,08,0x17559,0x1757B,{tile:12}{tile:07}{tile:33}{tile:19}{tile:4E}{tile:63}{tile:4C}{tile:1A}{br}{br}{tile:56}{tile:33}{tile:4D}{tile:53}{tile:33}{tile:67}{tile:56}{tile:33}{tile:5B}{tile:33}{tile:64}{tile:2D}{br}{br}{tile:12}{tile:2A}{tile:13}{tile:02}{tile:08}{tile:14}{tile:02}{tile:02}{tile:2C}{tile:26},12 07 33 19 4E 63 4C 1A F5 F5 56 33 4D 53 33 67 56 33 5B 33 64 2D F5 F5 12 2A 13 02 08 14 02 02 2C 26,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,원문 표기는 デイジーデビル. 영문 캐릭터 이름은 Dizzy Devil. 일본어 원문을 임의로 현대 표기로 수정하지 않음.
+JP_17582,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"つぎのエリアは
+
+ファーボールを
+
+つれていくといいわよ","다음 구역엔
+
+퍼볼을
+
+데려가는 게 좋겠어",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,09,0x17582,0x175A0,{tile:12}{tile:07}{tile:33}{tile:19}{tile:4E}{tile:63}{tile:4C}{tile:1A}{br}{br}{tile:5C}{tile:68}{tile:67}{tile:5D}{tile:33}{tile:67}{tile:64}{tile:2D}{br}{br}{tile:12}{tile:2A}{tile:13}{tile:02}{tile:08}{tile:14}{tile:02}{tile:02}{tile:2C}{tile:26},12 07 33 19 4E 63 4C 1A F5 F5 5C 68 67 5D 33 67 64 2D F5 F5 12 2A 13 02 08 14 02 02 2C 26,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,원문 ファーボール은 Furrball을 가리킴. 화자는 동료 이름으로 언급된 Furrball이 아니라 조언하는 셜리.
+JP_175A9,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"ハイ シャーリー・グ・ルーンよ
+わたしは よげんしゃなの","하이~ 셜리 더 룬이야
+난 예언자거든",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,"06,07,08,09,10,11",0x175A9,0x175CE,"{speed:03}{position:04,04}{tile:5A}{tile:4D}{tile:00}{tile:53}{tile:6A}{tile:67}{tile:63}{tile:67}{tile:39}{tile:52}{tile:33}{tile:39}{tile:64}{tile:67}{tile:66}{tile:26}{br}{tile:2C}{tile:10}{tile:0C}{tile:1A}{tile:00}{tile:26}{tile:09}{tile:33}{tile:2E}{tile:0C}{tile:2F}{tile:15}{tile:19}{delay:46}",F8 03 F6 04 04 5A 4D 00 53 6A 67 63 67 39 52 33 39 64 67 66 26 F5 2C 10 0C 1A 00 26 09 33 2E 0C 2F 15 19 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_175CF,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"あなたのパートナーを 3にんの
+なかから えらんでね","네 파트너를 셋 중에서
+골라 봐",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,"06,07,08,09,10,11",0x175CF,0x175ED,{tile:01}{tile:15}{tile:10}{tile:19}{tile:5A}{tile:34}{tile:67}{tile:57}{tile:58}{tile:67}{tile:2D}{tile:00}{tile:3A}{tile:16}{tile:2E}{tile:19}{br}{tile:15}{tile:06}{tile:06}{tile:27}{tile:00}{tile:04}{tile:27}{tile:2E}{tile:13}{tile:33}{tile:18}{delay:46},01 15 10 19 5A 34 67 57 58 67 2D 00 3A 16 2E 19 F5 15 06 06 27 00 04 27 2E 13 33 18 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_175EE,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,"パッドでえらんで
+
+〈A〉ボタンでけっていよ","십자키로 고르고
+
+〈A〉버튼으로 결정해",untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,"06,07,08,09,10,11",0x175EE,0x1760A,{tile:5A}{tile:34}{tile:69}{tile:57}{tile:33}{tile:13}{tile:33}{tile:04}{tile:27}{tile:2E}{tile:13}{tile:33}{br}{br}{tile:6C}{tile:6B}{tile:6D}{tile:5D}{tile:33}{tile:55}{tile:66}{tile:13}{tile:33}{tile:09}{tile:32}{tile:13}{tile:02}{tile:26},5A 34 69 57 33 13 33 04 27 2E 13 33 F5 F5 6C 6B 6D 5D 33 55 66 13 33 09 32 13 02 26,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,〈A〉는 ROM의 6C/6B/6D 타일. 좌우 방향 기호의 읽기용 표기이며 원본 토큰과 바이트를 기준으로 보존.
+JP_1760C,셜리의 동료 선택 / 다음 구역 조언,셜리 더 룬,Shirley the Loon,확정: 자기소개 / 실제 화면,버스터 / 플레이어,じゃあ またね,그럼 또 봐,untranslated,공통 스크립트의 シャーリー・グ・ルーン 자기소개 및 예언자 설명. 원본 콜드 부팅 frame_0960의 금발·분홍 리본 캐릭터와 동료 선택 화면. 공식 게임 설명서의 점술가 역할과 일치.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,19,0x1760C,0x17618,{speed:03}{tile:0C}{tile:33}{tile:2F}{tile:01}{tile:00}{tile:1F}{tile:10}{tile:18}{delay:46},F8 03 0C 33 2F 01 00 1F 10 18 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17619,도입 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"あるひのこと・・・
+
+バスターバニーは いえで
+
+くつろいで テレビをみていた
+すると・・・","어느 날...
+
+버스터 버니는 집에서
+
+느긋하게 TV를 보고 있었다
+그런데...",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,12,0x17619,0x17655,"{speed:03}{position:04,04}{delay:23}{tile:01}{tile:29}{tile:1B}{tile:19}{tile:0A}{tile:14}{tile:39}{tile:39}{tile:39}{br}{br}{tile:5A}{tile:33}{tile:54}{tile:55}{tile:67}{tile:5A}{tile:33}{tile:59}{tile:67}{tile:1A}{tile:00}{tile:02}{tile:04}{tile:13}{tile:33}{br}{br}{tile:08}{tile:12}{tile:2B}{tile:02}{tile:13}{tile:33}{tile:00}{tile:56}{tile:65}{tile:5B}{tile:33}{tile:2D}{tile:20}{tile:13}{tile:02}{tile:10}{br}{tile:0D}{tile:29}{tile:14}{tile:39}{tile:39}{tile:39}{delay:46}",F8 03 F6 04 04 F7 23 01 29 1B 19 0A 14 39 39 39 F5 F5 5A 33 54 55 67 5A 33 59 67 1A 00 02 04 13 33 F5 F5 08 12 2B 02 13 33 00 56 65 5B 33 2D 20 13 02 10 F5 0D 29 14 39 39 39 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17657,도입 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"とつぜん テレビに
+
+モンタナ マックスのかおが
+
+あらわれた","갑자기 TV 화면에
+
+몬태나 맥스의 얼굴이
+
+나타났다",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,13,0x17657,0x17682,"{speed:03}{position:04,04}{delay:23}{tile:14}{tile:12}{tile:0E}{tile:33}{tile:2E}{tile:00}{tile:56}{tile:65}{tile:5B}{tile:33}{tile:16}{br}{br}{tile:61}{tile:66}{tile:55}{tile:58}{tile:00}{tile:5E}{tile:69}{tile:51}{tile:54}{tile:19}{tile:06}{tile:05}{tile:06}{tile:33}{br}{br}{tile:01}{tile:27}{tile:2C}{tile:2A}{tile:10}{delay:46}",F8 03 F6 04 04 F7 23 14 12 0E 33 2E 00 56 65 5B 33 16 F5 F5 61 66 55 58 00 5E 69 51 54 19 06 05 06 33 F5 F5 01 27 2C 2A 10 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17684,도입: TV로 납치를 알리고 도발,몬태나 맥스,Montana Max,유력: 연속 장면 / 공식 게임 설정,버스터 버니,"「へイ バニー！
+
+ バブスバニーは おれが
+ あずかったぞ！」","「이봐, 버니!
+
+ 밥스 버니는 내가
+ 잡아뒀다!」",untranslated,바로 앞 내레이션이 TV에 モンタナ マックス가 나타났다고 명시. バブスバニー를 잡아두었다는 발언과 구하러 오라는 도발이 설명서의 납치범 설정과 일치. 명시적인 화자 이름 제어코드는 없음.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,14,0x17684,0x176B4,"{speed:03}{position:04,04}{delay:23}{tile:37}{tile:1D}{tile:4D}{tile:00}{tile:5A}{tile:33}{tile:59}{tile:67}{tile:36}{br}{br}{tile:00}{tile:5A}{tile:33}{tile:5C}{tile:33}{tile:54}{tile:5A}{tile:33}{tile:59}{tile:67}{tile:1A}{tile:00}{tile:05}{tile:2A}{tile:06}{tile:33}{br}{tile:00}{tile:01}{tile:0D}{tile:33}{tile:06}{tile:32}{tile:10}{tile:0F}{tile:33}{tile:36}{tile:38}{delay:46}",F8 03 F6 04 04 F7 23 37 1D 4D 00 5A 33 59 67 36 F5 F5 00 5A 33 5C 33 54 5A 33 59 67 1A 00 05 2A 06 33 F5 00 01 0D 33 06 32 10 0F 33 36 38 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_176B6,도입: 납치된 밥스의 구조 요청,밥스 버니,Babs Bunny,유력: 대사 문맥 / 공식 게임 설정,버스터 버니,"「バスター
+
+ たすけて！  たすけて！
+
+ たすけて！  たすけて！」","「버스터!
+
+ 도와줘!  도와줘!
+
+ 도와줘!  도와줘!」",untranslated,몬태나가 밥스를 잡아두었다는 말 직후 バスター를 부르며 구조를 요청. 설명서의 피랍자/구조자 관계와 일치. 명시적인 화자 이름 제어코드는 없음.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,15,0x176B6,0x176E6,"{speed:03}{position:04,04}{delay:23}{tile:37}{tile:5A}{tile:33}{tile:54}{tile:55}{tile:67}{br}{br}{tile:00}{tile:10}{tile:0D}{tile:09}{tile:13}{tile:36}{tile:00}{tile:00}{tile:10}{tile:0D}{tile:09}{tile:13}{tile:36}{br}{br}{tile:00}{tile:10}{tile:0D}{tile:09}{tile:13}{tile:36}{tile:00}{tile:00}{tile:10}{tile:0D}{tile:09}{tile:13}{tile:36}{tile:38}{delay:46}{delay:46}",F8 03 F6 04 04 F7 23 37 5A 33 54 55 67 F5 F5 00 10 0D 09 13 36 00 00 10 0D 09 13 36 F5 F5 00 10 0D 09 13 36 00 00 10 0D 09 13 36 38 F7 46 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_176E8,도입: TV로 납치를 알리고 도발,몬태나 맥스,Montana Max,유력: 연속 장면 / 공식 게임 설정,버스터 버니,"「ごらんのとおりだ！
+
+ くやしかったら ここまで
+
+ たすけにくるんだな！
+
+    ハッハッハッハッ・・・」","「보다시피!
+
+ 분하면 여기까지 와서
+
+ 구해 보시지!
+
+    하하하하하...」",untranslated,바로 앞 내레이션이 TV에 モンタナ マックス가 나타났다고 명시. バブスバニー를 잡아두었다는 발언과 구하러 오라는 도발이 설명서의 납치범 설정과 일치. 명시적인 화자 이름 제어코드는 없음.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,16,0x176E8,0x1772D,"{speed:03}{position:04,04}{delay:23}{tile:37}{tile:0A}{tile:33}{tile:27}{tile:2E}{tile:19}{tile:14}{tile:05}{tile:28}{tile:10}{tile:33}{tile:36}{br}{br}{tile:00}{tile:08}{tile:24}{tile:0C}{tile:06}{tile:32}{tile:10}{tile:27}{tile:00}{tile:0A}{tile:0A}{tile:1F}{tile:13}{tile:33}{br}{br}{tile:00}{tile:10}{tile:0D}{tile:09}{tile:16}{tile:08}{tile:29}{tile:2E}{tile:10}{tile:33}{tile:15}{tile:36}{br}{br}{tile:00}{tile:00}{tile:00}{tile:00}{tile:5A}{tile:69}{tile:5A}{tile:69}{tile:5A}{tile:69}{tile:5A}{tile:69}{tile:39}{tile:39}{tile:39}{tile:38}{delay:46}",F8 03 F6 04 04 F7 23 37 0A 33 27 2E 19 14 05 28 10 33 36 F5 F5 00 08 24 0C 06 32 10 27 00 0A 0A 1F 13 33 F5 F5 00 10 0D 09 16 08 29 2E 10 33 15 36 F5 F5 00 00 00 00 5A 69 5A 69 5A 69 5A 69 39 39 39 38 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_1772F,도입: 구조 결심,버스터 버니,Buster Bunny,유력: 대사 문맥 / 공식 게임 설정,자기 자신 / 동료,"「たいへんだ！
+
+ いそいでたすけなくちゃ
+
+ バブスがあぶない！！」","「큰일이야!
+
+ 서둘러 구하러 가야 해
+
+ 밥스가 위험해!!」",untranslated,자택에서 TV를 보던 인물은 バスターバニー. 밥스가 위험하니 서둘러 구해야 한다는 반응은 공식 설명서의 주인공·구조 임무와 일치. 명시적인 화자 이름 제어코드는 없음.,https://www.thegameisafootarcade.com/wp-content/uploads/2017/03/Tiny-Toon-Adventures-Game-Manual.pdf,17,0x1772F,0x17763,"{speed:03}{position:04,04}{delay:23}{tile:37}{tile:10}{tile:02}{tile:1D}{tile:2E}{tile:10}{tile:33}{tile:36}{br}{br}{tile:00}{tile:02}{tile:0F}{tile:02}{tile:13}{tile:33}{tile:10}{tile:0D}{tile:09}{tile:15}{tile:08}{tile:11}{tile:2F}{br}{br}{tile:00}{tile:5A}{tile:33}{tile:5C}{tile:33}{tile:54}{tile:06}{tile:33}{tile:01}{tile:1C}{tile:33}{tile:15}{tile:02}{tile:36}{tile:36}{tile:38}{delay:46}{delay:46}",F8 03 F6 04 04 F7 23 37 10 02 1D 2E 10 33 36 F5 F5 00 02 0F 02 13 33 10 0D 09 15 08 11 2F F5 F5 00 5A 33 5C 33 54 06 33 01 1C 33 15 02 36 36 38 F7 46 F7 46,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_17764,엔딩 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"・・・・・モンタナは バスター
+たちにこらしめられ・・・",".....몬태나는
+버스터 일행에게 혼쭐이 나고...",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,22,0x17764,0x1778A,"{speed:03}{position:04,04}{delay:23}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:61}{tile:66}{tile:55}{tile:58}{tile:1A}{tile:00}{tile:5A}{tile:33}{tile:54}{tile:55}{tile:67}{br}{tile:10}{tile:11}{tile:16}{tile:0A}{tile:27}{tile:0C}{tile:22}{tile:27}{tile:2A}{tile:39}{tile:39}{tile:39}{delay:CF}",F8 03 F6 04 04 F7 23 39 39 39 39 39 61 66 55 58 1A 00 5A 33 54 55 67 F5 10 11 16 0A 27 0C 22 27 2A 39 39 39 F7 CF,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_1778C,엔딩 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"バスターたちの かつやくで
+
+バブスはぶじに たすけ
+
+だされた","버스터 일행의 활약으로
+
+밥스는 무사히
+
+구출되었다",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,23,0x1778C,0x177BC,"{speed:03}{position:04,04}{delay:23}{tile:5A}{tile:33}{tile:54}{tile:55}{tile:67}{tile:10}{tile:11}{tile:19}{tile:00}{tile:06}{tile:12}{tile:24}{tile:08}{tile:13}{tile:33}{br}{br}{tile:5A}{tile:33}{tile:5C}{tile:33}{tile:54}{tile:1A}{tile:1C}{tile:33}{tile:0C}{tile:33}{tile:16}{tile:00}{tile:10}{tile:0D}{tile:09}{br}{br}{tile:10}{tile:33}{tile:0B}{tile:2A}{tile:10}{delay:CF}",F8 03 F6 04 04 F7 23 5A 33 54 55 67 10 11 19 00 06 12 24 08 13 33 F5 F5 5A 33 5C 33 54 1A 1C 33 0C 33 16 00 10 0D 09 F5 F5 10 33 0B 2A 10 F7 CF,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_177BE,엔딩 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"こうして ようきで ゆかいな
+
+アクメ エイカーズにもどり
+
+バスターたちにも たのしい
+
+せいかつがもどってきたのだ","그렇게 명랑하고 유쾌한
+
+애크미 에이커스로 돌아와
+
+버스터 일행에게도 즐거운
+
+일상이 다시 찾아왔다",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,24,0x177BE,0x17809,"{speed:03}{position:04,04}{delay:23}{tile:0A}{tile:03}{tile:0C}{tile:13}{tile:00}{tile:26}{tile:03}{tile:07}{tile:13}{tile:33}{tile:00}{tile:25}{tile:06}{tile:02}{tile:15}{br}{br}{tile:4C}{tile:51}{tile:60}{tile:00}{tile:4E}{tile:4D}{tile:4F}{tile:67}{tile:54}{tile:33}{tile:16}{tile:23}{tile:14}{tile:33}{tile:28}{br}{br}{tile:5A}{tile:33}{tile:54}{tile:55}{tile:67}{tile:10}{tile:11}{tile:16}{tile:23}{tile:00}{tile:10}{tile:19}{tile:0C}{tile:02}{br}{br}{tile:0E}{tile:02}{tile:06}{tile:12}{tile:06}{tile:33}{tile:23}{tile:14}{tile:33}{tile:32}{tile:13}{tile:07}{tile:10}{tile:19}{tile:10}{tile:33}{delay:CF}",F8 03 F6 04 04 F7 23 0A 03 0C 13 00 26 03 07 13 33 00 25 06 02 15 F5 F5 4C 51 60 00 4E 4D 4F 67 54 33 16 23 14 33 28 F5 F5 5A 33 54 55 67 10 11 16 23 00 10 19 0C 02 F5 F5 0E 02 06 12 06 33 23 14 33 32 13 07 10 19 10 33 F7 CF,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,
+JP_1780B,엔딩 내레이션,내레이션,Narration,내레이션: 인물 미지정,플레이어 / 관객,"・・・・・・・・・ということで
+
+
+    お・し・ま・い！！",".........그럼 이걸로
+
+
+    끝!!",untranslated,3인칭 사건 설명 또는 お・し・ま・い 마무리. 등장 인물을 화자로 자동 지정하지 않음. 버스터와 밥스가 애니메이션 진행자라는 사실만으로 게임 내레이션 성우/화자를 확정할 수 없음.,https://amblin.com/tv/tiny-toon-adventures/,25,0x1780B,0x17844,"{speed:03}{position:04,04}{delay:23}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:39}{tile:14}{delay:14}{tile:02}{tile:03}{tile:0A}{tile:14}{tile:13}{tile:33}{br}{br}{br}{tile:00}{tile:00}{tile:00}{tile:00}{tile:05}{delay:14}{tile:39}{delay:14}{tile:0C}{delay:14}{tile:39}{delay:14}{tile:1F}{delay:14}{tile:39}{delay:14}{tile:02}{delay:14}{tile:36}{tile:36}{delay:CF}",F8 03 F6 04 04 F7 23 39 39 39 39 39 39 39 39 39 14 F7 14 02 03 0A 14 13 33 F5 F5 F5 00 00 00 00 05 F7 14 39 F7 14 0C F7 14 39 F7 14 1F F7 14 39 F7 14 02 F7 14 36 36 F7 CF,73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd,

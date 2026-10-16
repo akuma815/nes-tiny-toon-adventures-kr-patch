@@ -1,0 +1,20 @@
+﻿타이니 툰 어드벤처스 한글 패치 v1.0.1
+
+ZIP을 모두 압축 해제하고 일본판 원본 ROM에 적용하세요.
+Windows x64 / 기본 Windows PowerShell을 사용합니다. Python은 필요 없습니다.
+
+apply.cmd "Tiny Toon Adventures (Japan).nes" "TinyToonAdventures_KR_v1.0.1.nes"
+
+원본을 apply.cmd에 끌어 놓아도 됩니다. 기본 출력은 원본 이름 뒤에 _KR입니다.
+이미 있는 출력 파일을 덮어쓰지 않습니다. 이전 한글 ROM에 중복 적용하지 마세요.
+새 ROM을 처음부터 실행하고 이전의 문제 대화 저장 상태를 불러오지 마세요.
+
+원본: 262160바이트 / SHA-256 73300DC1505564827EF95BA3E2A06C26AA48920E4981195F32B2101C185EF3DD
+결과: 524304바이트 / SHA-256 D57B816FCE99D99EB700EBECC3D2397A1D039418EAD3B1233D720C712FB2DF3D
+
+수정 내용과 검증 범위는 RELEASE_NOTES_KO.md 및 release_report.json을 참고하세요.
+구성: xdelta, apply.cmd/apply.ps1, 설명서/릴리즈 글, SHA256.txt,
+release_report.json, tools/, licenses/. ROM은 포함하지 않습니다.
+Galmuri7: Copyright 2019–2025 Lee Minseo, SIL Open Font License1.1.
+xdelta3: Copyright Joshua MacDonald, Apache License2.0. 동봉 고지를 참고하세요.
+비공식 팬 번역이며 게임과 캐릭터의 권리는 각 권리자에게 있습니다.

@@ -1,0 +1,666 @@
+{
+  "date": "2026-10-16",
+  "project": "타이니 툰 어드벤처스",
+  "files": [
+    {
+      "path": "scripts/apply_dialogue_test.ps1",
+      "source": "scripts/apply_dialogue_test.ps1",
+      "bytes": 4366,
+      "sha256": "a2f89511fe44d5a5b5e7296089c4df0363af4bdd05d1d7e8dc91891e4fe4327f"
+    },
+    {
+      "path": "scripts/asm6502.py",
+      "source": "scripts/asm6502.py",
+      "bytes": 3674,
+      "sha256": "c5492dccbeb376f3514a730f6e05314d3cbd62688ffdf68f52c968e85807c26e"
+    },
+    {
+      "path": "scripts/build_dialogue_footer_fix.py",
+      "source": "scripts/build_dialogue_footer_fix.py",
+      "bytes": 4696,
+      "sha256": "3d84a29ec2711631feb033382a3d7fd5f482777dd19b005dc6b4548b0e98c7c1"
+    },
+    {
+      "path": "scripts/build_dialogue_four.py",
+      "source": "scripts/build_dialogue_four.py",
+      "bytes": 4662,
+      "sha256": "836975cb01fe36f6ba6bfa7789a8b1c7926d712e18db9ad1ff9080cb3293abf5"
+    },
+    {
+      "path": "scripts/build_dialogue_full.py",
+      "source": "scripts/build_dialogue_full.py",
+      "bytes": 12953,
+      "sha256": "7406981d6731760779917265766f9fe321185ab989f90dac92daacd39353c7f3"
+    },
+    {
+      "path": "scripts/build_dialogue_native_reader.py",
+      "source": "scripts/build_dialogue_native_reader.py",
+      "bytes": 9045,
+      "sha256": "029876c4a96ae5a722550126e78b51776ee72ad3851715ae616e384b931eec8c"
+    },
+    {
+      "path": "scripts/build_dialogue_paged.py",
+      "source": "scripts/build_dialogue_paged.py",
+      "bytes": 11265,
+      "sha256": "f3ece9faf655f5175f821767507db3e2392ffdc350a558854c5785f3dd7dccd0"
+    },
+    {
+      "path": "scripts/build_dialogue_poc.py",
+      "source": "scripts/build_dialogue_poc.py",
+      "bytes": 11437,
+      "sha256": "8c46a867285d45e081af9ebf1f61f99186f6e7f381e9a496bb5f09c094e5690f"
+    },
+    {
+      "path": "scripts/build_dialogue_test_package.py",
+      "source": "scripts/build_dialogue_test_package.py",
+      "bytes": 3145,
+      "sha256": "4fa6cd9afa97bdd888ea3f7a5239fe0d503b447a2b37f2307b5cbf0528a1addf"
+    },
+    {
+      "path": "scripts/build_dialogue_three.py",
+      "source": "scripts/build_dialogue_three.py",
+      "bytes": 11031,
+      "sha256": "e4663ef2f0c8e7250a9b73cbbbf32aa566e2a79a03fe3285e8955fa0d658569e"
+    },
+    {
+      "path": "scripts/build_title.py",
+      "source": "scripts/build_title.py",
+      "bytes": 7683,
+      "sha256": "0b4e7d4be1b254572672ea70f82c6f8782ef435d1dc7bc0bcdd1f7ebb32cf438"
+    },
+    {
+      "path": "scripts/capture_dialogue_attract.lua",
+      "source": "scripts/capture_dialogue_attract.lua",
+      "bytes": 2943,
+      "sha256": "b395a8eb7cf0eff491c1c5c07e2fe0c05f88ac0e71ad0656703cfb3c32f0ea4d"
+    },
+    {
+      "path": "scripts/capture_dialogue_attract_trace.lua",
+      "source": "scripts/capture_dialogue_attract_trace.lua",
+      "bytes": 3258,
+      "sha256": "5f3813b17876a7380e21c2e53809c14294efcc1a02e3a22f19f7cb0e36d2d975"
+    },
+    {
+      "path": "scripts/capture_dialogue_full.lua",
+      "source": "scripts/capture_dialogue_full.lua",
+      "bytes": 4056,
+      "sha256": "99686d6f186691128b37e30c4905f9251e183b30487560cfafce2b2e5a719881"
+    },
+    {
+      "path": "scripts/capture_dialogue_full_harness.lua",
+      "source": "scripts/capture_dialogue_full_harness.lua",
+      "bytes": 3363,
+      "sha256": "165ab709460c299bcba38d7b591146f03413e8ae5023da7183e919314aef4642"
+    },
+    {
+      "path": "scripts/capture_dialogue_gameplay.lua",
+      "source": "scripts/capture_dialogue_gameplay.lua",
+      "bytes": 5437,
+      "sha256": "17c1b521d25e17530c686c58628c689087098ad46d20b9c7d7b3afcf0652902b"
+    },
+    {
+      "path": "scripts/capture_dialogue_geometry.lua",
+      "source": "scripts/capture_dialogue_geometry.lua",
+      "bytes": 1448,
+      "sha256": "d7fe13b37aa9fb993d014a84d55d2a642817e8a4c7c65bfe5f8356b92c88f57c"
+    },
+    {
+      "path": "scripts/capture_dialogue_paged.lua",
+      "source": "scripts/capture_dialogue_paged.lua",
+      "bytes": 3865,
+      "sha256": "d8ba0cd98fae74c66a7d8c8f3a835b5e3348e348e5ddae46f9327ef73260f74a"
+    },
+    {
+      "path": "scripts/capture_dialogue_poc.lua",
+      "source": "scripts/capture_dialogue_poc.lua",
+      "bytes": 2781,
+      "sha256": "af8b3870f00bbc0859256f964275a512439e19ab07b747752d787e1adac5a767"
+    },
+    {
+      "path": "scripts/capture_dialogue_roots.lua",
+      "source": "scripts/capture_dialogue_roots.lua",
+      "bytes": 2131,
+      "sha256": "600a6dd2084e775f70d35de9b7ebbebc8eafa1ba8ea9bdd4b2f3e98509b3a5b2"
+    },
+    {
+      "path": "scripts/capture_dialogue_story.lua",
+      "source": "scripts/capture_dialogue_story.lua",
+      "bytes": 2003,
+      "sha256": "a5263bffbf5fb7a4640d311bb21d8db3a3d96118b40230dac0f3e4f0fb7d5c8b"
+    },
+    {
+      "path": "scripts/capture_dialogue_three.lua",
+      "source": "scripts/capture_dialogue_three.lua",
+      "bytes": 4028,
+      "sha256": "c7255f207db85f3370e02ce4a4b2b54eb3cf2ac749d7b6bbd94ca9a474b33f4a"
+    },
+    {
+      "path": "scripts/capture_title.lua",
+      "source": "scripts/capture_title.lua",
+      "bytes": 1755,
+      "sha256": "179af8c31ed8da91966d3f407f0959ec0155d97f522040de86cce063b546da74"
+    },
+    {
+      "path": "scripts/compare_title_qa.py",
+      "source": "scripts/compare_title_qa.py",
+      "bytes": 1168,
+      "sha256": "cd8a5dc4e5a34ea4a188083cbca5bb6d3c51b42061a598b50f882fb08fed608e"
+    },
+    {
+      "path": "scripts/dialogue_ips.py",
+      "source": "scripts/dialogue_ips.py",
+      "bytes": 3292,
+      "sha256": "bf1815b84b10cd99d0c0d66ba65f636add211842cd647238cfb96aa542a89179"
+    },
+    {
+      "path": "scripts/extract_dialogue.py",
+      "source": "scripts/extract_dialogue.py",
+      "bytes": 6768,
+      "sha256": "9a4bc9482fa540110f265731ba029726db290616764a4581586e1f83c2661ab0"
+    },
+    {
+      "path": "scripts/extract_title.py",
+      "source": "scripts/extract_title.py",
+      "bytes": 4052,
+      "sha256": "c850023e9e9fd0cc6f6000cb29db152cea659b9d56c79b60e41ab7a3c6eb3e1f"
+    },
+    {
+      "path": "scripts/finish_dialogue_test_package.py",
+      "source": "scripts/finish_dialogue_test_package.py",
+      "bytes": 2406,
+      "sha256": "c52e743964b81e3f872f82a543e1a96952fdee12abfa33d49c3707d22cfb0c00"
+    },
+    {
+      "path": "scripts/make_footer_fix_release.py",
+      "source": "scripts/make_footer_fix_release.py",
+      "bytes": 7142,
+      "sha256": "222027dff22d9e476a8fe7118fe9d83f478b82d3591d55368ff31cc98b90e41b"
+    },
+    {
+      "path": "scripts/make_native_reader_rc_release.py",
+      "source": "scripts/make_native_reader_rc_release.py",
+      "bytes": 6939,
+      "sha256": "a5326765bfc334892ba34b44a536fe24cd49a465b033f2586da483efa7ce0b94"
+    },
+    {
+      "path": "scripts/make_public_worklog.py",
+      "source": "scripts/make_public_worklog.py",
+      "bytes": 39507,
+      "sha256": "344f4b6f4d8132b3829b123840c98493173b7050ae1d6d746e318b3fbdcafa2e"
+    },
+    {
+      "path": "scripts/make_release_dist.py",
+      "source": "scripts/make_release_dist.py",
+      "bytes": 17029,
+      "sha256": "56bb2796d01a591e55a3f43c1a5e96e7ffca087905e115d76b38b0046cb8daca"
+    },
+    {
+      "path": "scripts/probe_dialogue_patch_ram.lua",
+      "source": "scripts/probe_dialogue_patch_ram.lua",
+      "bytes": 946,
+      "sha256": "eea440ae6114b89d08ed2d16b75891fea9fb72a2556a6a205c7176ae59860367"
+    },
+    {
+      "path": "scripts/record_public_worklog.py",
+      "source": "scripts/record_public_worklog.py",
+      "bytes": 10988,
+      "sha256": "69261d3530d110d15bc9df860ba5a583e5cd9eeb622952e43ec7f43081b4eeb8"
+    },
+    {
+      "path": "scripts/render_public_worklog.py",
+      "source": "scripts/render_public_worklog.py",
+      "bytes": 6227,
+      "sha256": "706aaaec552811ca14c6399d97c0d4d1c0ca96060acacf0b79315c9a68b774cd"
+    },
+    {
+      "path": "scripts/review_translation.py",
+      "source": "scripts/review_translation.py",
+      "bytes": 5286,
+      "sha256": "42b93aea67c26361993dfb550eda747f126ecfa5a4e9d70668f444b2031ad474"
+    },
+    {
+      "path": "scripts/run_dialogue_cinema_qa.py",
+      "source": "scripts/run_dialogue_cinema_qa.py",
+      "bytes": 2394,
+      "sha256": "756681df4c61156386a792a89efb7d7d9ff3ed87a2bd4c2e9ea3580cc7c5b2da"
+    },
+    {
+      "path": "scripts/run_dialogue_full_harness.py",
+      "source": "scripts/run_dialogue_full_harness.py",
+      "bytes": 3354,
+      "sha256": "278f5df401e7b1c33899380834aefb2e459546f2b8d5db6e2eea653d56b07756"
+    },
+    {
+      "path": "scripts/run_dialogue_full_qa.py",
+      "source": "scripts/run_dialogue_full_qa.py",
+      "bytes": 2147,
+      "sha256": "16dbdc5157c5173bdb5cf3f737dc6678fa7690b5916955397bd8fa79bd830dc1"
+    },
+    {
+      "path": "scripts/run_dialogue_gameplay.py",
+      "source": "scripts/run_dialogue_gameplay.py",
+      "bytes": 3146,
+      "sha256": "d3465e525cb31da2db81d55a77bb8795bc13cce5712dd2660a96595a2d77de01"
+    },
+    {
+      "path": "scripts/run_dialogue_geometry.py",
+      "source": "scripts/run_dialogue_geometry.py",
+      "bytes": 2013,
+      "sha256": "2f193ad79d1f88eb7a2057b28b9ae3c39b1462cd99f76b79bc79ac4dd0b88369"
+    },
+    {
+      "path": "scripts/run_dialogue_poc_qa.py",
+      "source": "scripts/run_dialogue_poc_qa.py",
+      "bytes": 1931,
+      "sha256": "c673a20f05237a07dfcb20b9316f77bd2eb733fee729ca638cc4c8bea4631797"
+    },
+    {
+      "path": "scripts/run_dialogue_roots_qa.py",
+      "source": "scripts/run_dialogue_roots_qa.py",
+      "bytes": 2252,
+      "sha256": "f71996db293eadc5a521cdab14f9849ae0269572d077ab8b4b56021ef62a0cd8"
+    },
+    {
+      "path": "scripts/run_dialogue_scene_skip.py",
+      "source": "scripts/run_dialogue_scene_skip.py",
+      "bytes": 4679,
+      "sha256": "5e8c08ec156b34dc6f68d7f47a00a76602969f687d83da03a1e68488cdd7b8a2"
+    },
+    {
+      "path": "scripts/run_dialogue_trace.py",
+      "source": "scripts/run_dialogue_trace.py",
+      "bytes": 1551,
+      "sha256": "a494e0759f4728c5950b877f69a5b135f40b15792d6587f253e26eeaf58cb657"
+    },
+    {
+      "path": "scripts/run_title_qa.py",
+      "source": "scripts/run_title_qa.py",
+      "bytes": 2067,
+      "sha256": "814f411631577ee91165a0b55c1858c6b0ec24d1407c9d4e4da7219548dcb8b8"
+    },
+    {
+      "path": "scripts/seal_public_worklog.py",
+      "source": "scripts/seal_public_worklog.py",
+      "bytes": 4505,
+      "sha256": "0333f664540f97b4a45d8b5a776adaefb237329e242abf6754dace2d24bacba6"
+    },
+    {
+      "path": "scripts/survey_dialogue_font.py",
+      "source": "scripts/survey_dialogue_font.py",
+      "bytes": 6315,
+      "sha256": "149712db6a7a0f122d79a362257e5bf0ffd30886e5af5b5222a4b9a5e47d7b75"
+    },
+    {
+      "path": "scripts/survey_rom.py",
+      "source": "scripts/survey_rom.py",
+      "bytes": 4788,
+      "sha256": "6bac160dd09703cabc91e63fcd5773900b8fef4c1188b71ca02cbb4646467049"
+    },
+    {
+      "path": "scripts/title_ips.py",
+      "source": "scripts/title_ips.py",
+      "bytes": 2866,
+      "sha256": "0f75a4227ff477a2d96f5f39d98d9f6318ce37063a054273d007f3a884e73ca2"
+    },
+    {
+      "path": "scripts/trace_dialogue.lua",
+      "source": "scripts/trace_dialogue.lua",
+      "bytes": 1457,
+      "sha256": "2bcf0ac9a18275a383bdc9f6b6696381fc7c82f37d6ec67709666f5db18e6e57"
+    },
+    {
+      "path": "scripts/trace_title.lua",
+      "source": "scripts/trace_title.lua",
+      "bytes": 717,
+      "sha256": "9f11a6b2c0c18992d35c4aa49b7b8ab4c7fe6dc4af596fa7e2f8bbb0e25aafb4"
+    },
+    {
+      "path": "scripts/verify_dialogue.py",
+      "source": "scripts/verify_dialogue.py",
+      "bytes": 5485,
+      "sha256": "fccec8de271c22278aea4a3bad6418841322cf59d405c1bbdbc24a636d01dd5f"
+    },
+    {
+      "path": "scripts/verify_dialogue_cinema_qa.py",
+      "source": "scripts/verify_dialogue_cinema_qa.py",
+      "bytes": 3035,
+      "sha256": "abc4ecb4ad9586f70c05d44dab830ba4d6e0ac56e203d6ab1728fd452c61fefd"
+    },
+    {
+      "path": "scripts/verify_dialogue_footer_abi.py",
+      "source": "scripts/verify_dialogue_footer_abi.py",
+      "bytes": 8245,
+      "sha256": "45043ffe17ecad98fb308792d9e6dbb516f48504154e9dfbe762e2e6ae2146ce"
+    },
+    {
+      "path": "scripts/verify_dialogue_footer_static.py",
+      "source": "scripts/verify_dialogue_footer_static.py",
+      "bytes": 9978,
+      "sha256": "e7da27d41698ec494614d7cd6adfd4d47f8c585fa1fd03452d72ec94365676ef"
+    },
+    {
+      "path": "scripts/verify_dialogue_full_abi.py",
+      "source": "scripts/verify_dialogue_full_abi.py",
+      "bytes": 7155,
+      "sha256": "7b8a5c23c7f347bccd4e19137324a8032ec25b9b4c242a774ebbbfc6c5723a66"
+    },
+    {
+      "path": "scripts/verify_dialogue_full_qa.py",
+      "source": "scripts/verify_dialogue_full_qa.py",
+      "bytes": 7985,
+      "sha256": "3694d360016792543f7d90208b442b1692d72a89a89afaaf34bce7f4db9c1a53"
+    },
+    {
+      "path": "scripts/verify_dialogue_full_static.py",
+      "source": "scripts/verify_dialogue_full_static.py",
+      "bytes": 9584,
+      "sha256": "fe61e4905c5a401961a09cc8f9e233a6a04e62fff1d7a4225a93ae207ad0b4a8"
+    },
+    {
+      "path": "scripts/verify_dialogue_gameplay_replay.py",
+      "source": "scripts/verify_dialogue_gameplay_replay.py",
+      "bytes": 4920,
+      "sha256": "a1d7bce445b62e06c07bfd187a04f6ab748abfddbca74b015b761caa500319a3"
+    },
+    {
+      "path": "scripts/verify_dialogue_hamton_qa.py",
+      "source": "scripts/verify_dialogue_hamton_qa.py",
+      "bytes": 6590,
+      "sha256": "bb7fc032cbdbb46521d1b65e5d5c0ae89588ac7411faf1d2a124a33fb016bc8c"
+    },
+    {
+      "path": "scripts/verify_dialogue_native_abi.py",
+      "source": "scripts/verify_dialogue_native_abi.py",
+      "bytes": 6266,
+      "sha256": "dea8fb550e1de61da69ca2ee7aa599c75ae9674e0728b86639ea6b2850598181"
+    },
+    {
+      "path": "scripts/verify_dialogue_paged_abi.py",
+      "source": "scripts/verify_dialogue_paged_abi.py",
+      "bytes": 3703,
+      "sha256": "eb8375744130892458a5aea32b83061a4df380318776bc32350df85334e10656"
+    },
+    {
+      "path": "scripts/verify_dialogue_paged_qa.py",
+      "source": "scripts/verify_dialogue_paged_qa.py",
+      "bytes": 5665,
+      "sha256": "d9a02765eb26ee6a48d4e3d4642675b9a14f913051b37c674e2937b6b95e7673"
+    },
+    {
+      "path": "scripts/verify_dialogue_paged_static.py",
+      "source": "scripts/verify_dialogue_paged_static.py",
+      "bytes": 6549,
+      "sha256": "8321e878b4a32e9460c56b29c28623fdb7d678b63f5e31d8a378c68cf484764b"
+    },
+    {
+      "path": "scripts/verify_dialogue_poc_qa.py",
+      "source": "scripts/verify_dialogue_poc_qa.py",
+      "bytes": 4547,
+      "sha256": "cf8f79154c61645d6a9f27172f8080a1b0cfbec69767857b2cf6c738db1837e2"
+    },
+    {
+      "path": "scripts/verify_dialogue_poc_static.py",
+      "source": "scripts/verify_dialogue_poc_static.py",
+      "bytes": 4118,
+      "sha256": "8757e1010b9272ba6471cdb3012a9be9ec8ee9f4ff0962e19fbc94e94457fc59"
+    },
+    {
+      "path": "scripts/verify_dialogue_scene_skip.py",
+      "source": "scripts/verify_dialogue_scene_skip.py",
+      "bytes": 8130,
+      "sha256": "5d49bbeb55bef1fa7e02b5bce600e78284a4eb640c2d820742ac0a88ee41fc93"
+    },
+    {
+      "path": "scripts/verify_dialogue_test_apply.py",
+      "source": "scripts/verify_dialogue_test_apply.py",
+      "bytes": 3510,
+      "sha256": "fc3028b9e4fd6d7b4769e1c5f54fce015cfe97b2e89116f6764e55896f24fb73"
+    },
+    {
+      "path": "scripts/verify_dialogue_three_abi.py",
+      "source": "scripts/verify_dialogue_three_abi.py",
+      "bytes": 3844,
+      "sha256": "70c61425adc97b87d2df736399da12204f8f15afcc7210cf31950a8e9d959c7f"
+    },
+    {
+      "path": "scripts/verify_dialogue_three_qa.py",
+      "source": "scripts/verify_dialogue_three_qa.py",
+      "bytes": 6432,
+      "sha256": "07fb53988c2a11c8e42e159971f1c61ed6891a5c5d6dc1c7ac599d59d39378ed"
+    },
+    {
+      "path": "scripts/verify_dialogue_three_static.py",
+      "source": "scripts/verify_dialogue_three_static.py",
+      "bytes": 7414,
+      "sha256": "726957e8c9b45932374b23851b83276d87cc6a5bc89e26c3628b488f6d5ee84a"
+    },
+    {
+      "path": "scripts/verify_source.ps1",
+      "source": "scripts/verify_source.ps1",
+      "bytes": 1263,
+      "sha256": "e80bc2c4779bfa18bf5f07e70138e27010cceea76c375ba74c837dc176ef0235"
+    },
+    {
+      "path": "scripts/verify_title_poc.py",
+      "source": "scripts/verify_title_poc.py",
+      "bytes": 4737,
+      "sha256": "d18ed0c81310bdf5f6cbcb862bdd59730812f4343efee605fd8ff961a212302e"
+    },
+    {
+      "path": "config/mesen_title_qa.json",
+      "source": "config/mesen_title_qa.json",
+      "bytes": 216,
+      "sha256": "cee81286ae23bd0b4fa417a9429b63dcf645ce2bdd122db5aa1d572990803621"
+    },
+    {
+      "path": "manifests/source_rom.json",
+      "source": "manifests/source_rom.json",
+      "bytes": 478,
+      "sha256": "82598d8b5cb497228e12ea96fb13cda418ac91041d4416bb1e944b251f87bc50"
+    },
+    {
+      "path": "manifests/title_assets.json",
+      "source": "manifests/title_assets.json",
+      "bytes": 1785,
+      "sha256": "dc6b6c87aaf19bd151e45c76818aced9d424189fde85ba276763afe66f1c5152"
+    },
+    {
+      "path": "docs/DIALOGUE_EXTRACTION.md",
+      "source": "docs/DIALOGUE_EXTRACTION.md",
+      "bytes": 12193,
+      "sha256": "821184df51dd05a6cd5e0cb954cceaa6e62e4fa678118495ce368dfe72e9d066"
+    },
+    {
+      "path": "docs/DIALOGUE_FULL.md",
+      "source": "docs/DIALOGUE_FULL.md",
+      "bytes": 14687,
+      "sha256": "7d55b69eb0eb3221f009842fd8eb70eeeb44acb4e6b665dfcca7dee9462e3cfe"
+    },
+    {
+      "path": "docs/DIALOGUE_HAMTON.md",
+      "source": "docs/DIALOGUE_HAMTON.md",
+      "bytes": 6189,
+      "sha256": "85cefda67037d320102fff196ae59b183ef68b39bca1c0e5f06db56fece222fa"
+    },
+    {
+      "path": "docs/DIALOGUE_PAGED.md",
+      "source": "docs/DIALOGUE_PAGED.md",
+      "bytes": 9189,
+      "sha256": "5497878b6eb0b475603cd456ef6cdb54fecabf248a0ad3f137b7c1b06f862585"
+    },
+    {
+      "path": "docs/DIALOGUE_SCENE_QA.md",
+      "source": "docs/DIALOGUE_SCENE_QA.md",
+      "bytes": 8748,
+      "sha256": "99b44c796b673be5ec9c87b4627e3becaeff1482d1396e76c3e1a771e1d3324c"
+    },
+    {
+      "path": "docs/DIALOGUE_THREE.md",
+      "source": "docs/DIALOGUE_THREE.md",
+      "bytes": 6128,
+      "sha256": "7c9b0954b493222459bdb180c75d132664a9a96814317fa702af263e43c68d6d"
+    },
+    {
+      "path": "docs/FONT_SIZE_SURVEY.md",
+      "source": "docs/FONT_SIZE_SURVEY.md",
+      "bytes": 7517,
+      "sha256": "571fd1f2e0b16bc3f43d5dbe2c7dd5428ee014f8e0f0cce0f5d13d0d1466cc62"
+    },
+    {
+      "path": "docs/HAMTON_FONT_FIX_2026-10-04.md",
+      "source": "docs/HAMTON_FONT_FIX_2026-10-04.md",
+      "bytes": 7693,
+      "sha256": "a0a9a41988bb8b9a3729224664faf42417f7896d63f7c83d43e2100fadc64ca8"
+    },
+    {
+      "path": "docs/HANDOFF.md",
+      "source": "docs/HANDOFF.md",
+      "bytes": 2167,
+      "sha256": "eca30b3f6fabc2bd23c212a5add312d628aa791f9f4944ec2973e48c48707e5d"
+    },
+    {
+      "path": "docs/HANDOFF_2026-10-01.md",
+      "source": "docs/HANDOFF_2026-10-01.md",
+      "bytes": 42148,
+      "sha256": "a581ccb1c3dbb05e38599af777ac8ac33004743811dadc4568ef86fc830ab4de"
+    },
+    {
+      "path": "docs/HANDOFF_2026-10-04.md",
+      "source": "docs/HANDOFF_2026-10-04.md",
+      "bytes": 67173,
+      "sha256": "89df04cc59742d0da7db47bca768d89dcb8ac54d7462a42bb53a3c9b66a981fe"
+    },
+    {
+      "path": "docs/HANDOFF_TEMPLATE.md",
+      "source": "docs/HANDOFF_TEMPLATE.md",
+      "bytes": 905,
+      "sha256": "8f994aa72f5b5a1511314e0b0071e8e6a07d8b25173d6819cbb076b715f09d7c"
+    },
+    {
+      "path": "docs/LOCALIZATION_WORK_PLAN.md",
+      "source": "docs/LOCALIZATION_WORK_PLAN.md",
+      "bytes": 36971,
+      "sha256": "8ee258c10a1f40e0a0783a034fa43550248b1d56762d094542b5c5f300c174f0"
+    },
+    {
+      "path": "docs/POC_DIALOGUE.md",
+      "source": "docs/POC_DIALOGUE.md",
+      "bytes": 11153,
+      "sha256": "9551bfc079ed4e65fe05dde1be8abba2c25b2c1607e94068ab7325902c4afe54"
+    },
+    {
+      "path": "docs/POC_TITLE.md",
+      "source": "docs/POC_TITLE.md",
+      "bytes": 10635,
+      "sha256": "fa52abb2716481709dc8d3acffe248c1813a897f333a7a2f3acbe44f6490a48b"
+    },
+    {
+      "path": "docs/PUBLIC_WORKLOG_2026-10-04.md",
+      "source": "docs/PUBLIC_WORKLOG_2026-10-04.md",
+      "bytes": 7402,
+      "sha256": "da7d9defd23ebfeb65602ca391a214835b3e458cc1c644e440b602c29ad54b62"
+    },
+    {
+      "path": "docs/README_DIALOGUE_TEST_KO.md",
+      "source": "docs/README_DIALOGUE_TEST_KO.md",
+      "bytes": 2943,
+      "sha256": "379a49bdcc96bb982fa6ff68d7b5c512a82d847219bda487eb4cb5f9ebbb132f"
+    },
+    {
+      "path": "docs/RELEASE_2026-10-04.md",
+      "source": "docs/RELEASE_2026-10-04.md",
+      "bytes": 6498,
+      "sha256": "f062b9123b72c054a6e77627f8dbe49fceb6c565ef6461de8d7dd3745bb80b57"
+    },
+    {
+      "path": "docs/SURVEY.md",
+      "source": "docs/SURVEY.md",
+      "bytes": 9790,
+      "sha256": "0139a72e84442d31c6a48d87b0c3e1e8550242447e52dc56ac890665212f34d8"
+    },
+    {
+      "path": "workspace/asm/dialogue_four_selector.asm",
+      "source": "workspace/asm/dialogue_four_selector.asm",
+      "bytes": 1696,
+      "sha256": "362337c0774cf577f7b7ea561879e779249ce3f4cc0154b8e0d9f3480f46d519"
+    },
+    {
+      "path": "workspace/asm/dialogue_full_stub.asm",
+      "source": "workspace/asm/dialogue_full_stub.asm",
+      "bytes": 446,
+      "sha256": "0a6c89056b471c1fc60e7cae61dd827a41972e561b712ed6d21c0013cf89584f"
+    },
+    {
+      "path": "workspace/asm/dialogue_paged_selector.asm",
+      "source": "workspace/asm/dialogue_paged_selector.asm",
+      "bytes": 874,
+      "sha256": "14f933aad4400c9f0e579ae22f8844d40f1295749201b2a57c4b97126480b4d2"
+    },
+    {
+      "path": "workspace/asm/dialogue_paged_stub.asm",
+      "source": "workspace/asm/dialogue_paged_stub.asm",
+      "bytes": 382,
+      "sha256": "dd5d747a874d9feefed343c971c5cfb3c0ea36b3899626e0a07923a8212cf908"
+    },
+    {
+      "path": "workspace/asm/dialogue_three_selector.asm",
+      "source": "workspace/asm/dialogue_three_selector.asm",
+      "bytes": 1448,
+      "sha256": "710ce1974cac016dc1c0c5cadf207216b69ad8e7490d86332e3a1bfb2a7d040e"
+    },
+    {
+      "path": "workspace/fonts/galmuri7_8x8/OFL.md",
+      "source": "workspace/fonts/galmuri7_8x8/OFL.md",
+      "bytes": 4266,
+      "sha256": "9a9e5a342c430c3fcf01a408b680f4405d5bf4ac659c931be35f8a1b27ea69c9"
+    },
+    {
+      "path": "workspace/fonts/galmuri7_8x8/font_mapping_checks.json",
+      "source": "workspace/fonts/galmuri7_8x8/font_mapping_checks.json",
+      "bytes": 34277,
+      "sha256": "51e226b89b4aca00a792c175b0468b8a2fb85a8a58b25d7051c3d2152660196e"
+    },
+    {
+      "path": "workspace/fonts/galmuri7_8x8/font_source.json",
+      "source": "workspace/fonts/galmuri7_8x8/font_source.json",
+      "bytes": 1291,
+      "sha256": "71794e59f0d38b0551cd886a9e57ee381b7ab0eb7970210ae3758732f478c6ff"
+    },
+    {
+      "path": "workspace/fonts/galmuri7_8x8/glyph_overrides_dialogue_007.json",
+      "source": "workspace/fonts/galmuri7_8x8/glyph_overrides_dialogue_007.json",
+      "bytes": 284,
+      "sha256": "2f6c720fa22bc8c39da29c14293db7cfdd603d526f27f1c0beca79625a61c014"
+    },
+    {
+      "path": "workspace/fonts/galmuri7_8x8/glyph_overrides_dialogue_008.json",
+      "source": "workspace/fonts/galmuri7_8x8/glyph_overrides_dialogue_008.json",
+      "bytes": 239,
+      "sha256": "064a25fcec96572e2ab68ac76602530eef37099e5b673431eab13f8d821b3781"
+    },
+    {
+      "path": "workspace/graphics/title/ai_v001/PROMPT.txt",
+      "source": "workspace/graphics/title/ai_v001/PROMPT.txt",
+      "bytes": 1572,
+      "sha256": "8db0fe9b15b78cb2cb48a386fa691d3970357fdc255fb3cc4958992410cab4b5"
+    },
+    {
+      "path": "workspace/translation/dialogue_ja.csv",
+      "source": "workspace/translation/dialogue_ja.csv",
+      "bytes": 26692,
+      "sha256": "85aa940ba608ad8e5edd6ed782f106c89f703d18288f923e0298e5b51bc5eafc"
+    },
+    {
+      "path": "workspace/translation/dialogue_ja_translated_ko.csv",
+      "source": "workspace/translation/dialogue_ja_translated_ko.csv",
+      "bytes": 25982,
+      "sha256": "e274e97e75db79ea5d05b2e025cc70b7e9258a701bc1c10bea279ecbb4e8eb50"
+    },
+    {
+      "path": "docs/PROJECT_NOTES.md",
+      "source": "README.md",
+      "bytes": 5306,
+      "sha256": "2c9b67c937597a4b042ddeb312d95c2dd69c1266ec49ea7795cda0aa267be14b"
+    }
+  ]
+}

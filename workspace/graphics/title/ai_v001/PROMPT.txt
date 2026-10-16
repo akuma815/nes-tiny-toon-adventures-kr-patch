@@ -1,0 +1,8 @@
+Use case: text-localization.
+Input image 1 is the edit target: an original extracted NES Tiny Toon Adventures logo, shown at 8x nearest-neighbor enlargement, logical size 176x88 pixels (1408x704 display).
+Replace only the English lettering with Korean. Exact text, two lines:
+top line: "타이니 툰"
+bottom line: "어드벤처"
+Render each Korean syllable accurately: 타 이 니 [space] 툰; 어 드 벤 처. Do not add any English or extra text.
+Keep the original playful cartoon logo character. The top line should be chunky, broad, irregular cartoon Hangul with white interiors, light blue outline, and deep royal-blue lower-right extrusion, matching the original TINY TOON. Top lettering entirely within the top 48 logical pixels. Bottom line should be legible lively slightly slanted Korean brush-like lettering, white with light blue outline, corresponding to Adventures, with the original blue sweeping underline. Bottom line entirely inside x=24..152 logical pixels, y=50..84. Keep both lines centered.
+Production constraints: black solid background. Use ONLY black #000000, off-white #FFFEFF, light blue #64B0FF and royal blue #4240FF. Crisp NES pixel art, no gradients or antialiasing. Form all strokes on the logical 176x88 grid enlarged 8 times: square blocks, clean pixel steps. Leave black breathing room and distinguish Hangul counters and 받침. Preserve two-line hierarchy and approximate original proportions. No characters, no scenery, no new symbols, no watermark. Return one single complete logo image, same 2:1 composition, no panel comparisons.

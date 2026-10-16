@@ -1,0 +1,6 @@
+{
+  "몇": {
+    "rows": ["###.###.", "#.#...#.", "###.###.", "...#..#.", ".#####..", "...#....", "..#.#...", "........"],
+    "reason": "Separate mieum and yeo, retain the chieut dot and branching strokes in the supplied 8x8 cell."
+  }
+}

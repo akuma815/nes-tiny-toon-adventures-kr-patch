@@ -1,0 +1,66 @@
+{
+  "name": "TinyToonAdventures_KR_Patch_v1.0.1_20261004",
+  "version": "1.0.1",
+  "date": "2026-10-04",
+  "status": "PASS",
+  "fix_status": "REPRODUCED_AND_VERIFIED",
+  "source": {
+    "file": "Tiny Toon Adventures (Japan).nes",
+    "bytes": 262160,
+    "sha256": "73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd"
+  },
+  "target": {
+    "bytes": 524304,
+    "sha256": "d57b816fce99d99eb700ebecc3d2397a1d039418ead3b1233d720c712fb2df3d",
+    "build": "dialogue_footer_fix_003"
+  },
+  "patch": {
+    "file": "TinyToonAdventures_KR_v1.0.1_20261004.xdelta",
+    "bytes": 5208,
+    "sha256": "03d916e0440fdd52fe97c0223dfbac6931ea15a0dd7c36acdd4a10ae00620878"
+  },
+  "verification_reports": {
+    "static": {
+      "path": "qa/reports/dialogue_footer_003_static.json",
+      "sha256": "e01d6b7cb90b2186b0f0a5d26bf76094c73e000625dbcaa3a7db705c1e3183fa"
+    },
+    "abi": {
+      "path": "qa/reports/dialogue_footer_003_abi.json",
+      "sha256": "d00e21a2458a0cae0f66caab49fbfca95af15c6c9af1691aa499d70b0f08d395"
+    },
+    "runtime": {
+      "path": "qa/reports/dialogue_footer_003_runtime.json",
+      "sha256": "fef9a80f1459ef51da0144ffa2935f5101bfe01d83506f3d908b02ef0adc88fb"
+    },
+    "visual": {
+      "path": "qa/reports/dialogue_footer_003_visual.json",
+      "sha256": "acab53b47d965227c28dcf48845f695fc309871caa589df99a4dcb4d7cd60588"
+    }
+  },
+  "translated_blocks": 22,
+  "CSV_needs_review": 22,
+  "font": "Supplied Galmuri7 8x8; explicit few-glyph override",
+  "glyph_override_sha256": "064a25fcec96572e2ab68ac76602530eef37099e5b673431eab13f8d821b3781",
+  "runtime_scope": "Mesen2.2.1 natural intro and Hamton30; one counter1 write; six selection/ending scenes via original dispatcher RAM skips. Both Hamton branches also Mesen2.1.1. Captured wait frames checked pixel by pixel.",
+  "root_cause": "Counting nametable survived root18 F7 wait while linear address selector loaded skipped insufficient-page font. Preserve actual cached font until cursor6.",
+  "architecture": "006 reader/data addresses/IRQ cache retained",
+  "unperformed": [
+    "full playthrough",
+    "hardware",
+    "final translation and speaker review"
+  ],
+  "ROM_free": true,
+  "apply_verification": {
+    "status": "PASS",
+    "checks": 8,
+    "source_unchanged": true,
+    "byte_for_byte_target_match": true,
+    "unicode_space_paths": true,
+    "entrypoint_payload_sha256": {
+      "apply.cmd": "6fba80057454f5e6eedf7eddb3459b16e58a3e5b5a49b7bd66f0072db81748e1",
+      "apply.ps1": "5712abe07b2a6083988b4fed97a0f5b76c85c51a78d65b155c7fc43d3c440936",
+      "TinyToonAdventures_KR_v1.0.1_20261004.xdelta": "03d916e0440fdd52fe97c0223dfbac6931ea15a0dd7c36acdd4a10ae00620878",
+      "tools/xdelta3.exe": "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0"
+    }
+  }
+}

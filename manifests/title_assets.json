@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Game title logo PNG-to-ROM PoC; additional English localization excluded; Japanese translation delegated by user to another AI",
+  "session_status": "ended_by_user_2026-10-01",
+  "english_policy": "Preserve original English including PUSH START; preserve the existing Korean title logo",
+  "japanese_translation_owner": "Another AI selected by the user; no work started in this session",
+  "source_manifest": "manifests/source_rom.json",
+  "extraction_spec": "extracted/title/title_20261001/title_extraction.json",
+  "ai_source_png": "workspace/graphics/title/ai_v001/logo_ai_raw.png",
+  "ai_source_sha256": "7bf7615b85650fb784026b71433b655ea8538df24f0a00835e48d61968e4e23b",
+  "generation_mode": "built-in image_gen edit; fixed generated PNG is reproducible build input",
+  "prompt": "workspace/graphics/title/ai_v001/PROMPT.txt",
+  "korean_text": ["타이니 툰", "어드벤처"],
+  "review_status": "agent_visual_checked_user_review_pending",
+  "latest_verified_build": "build/title_kr_ai_004",
+  "latest_verified_rom_sha256": "beb669edda6c666a10c7b933f5ebee5eecda81ca46d31d17e33d51d6657103b4",
+  "runtime_evidence": "qa/title/kr_smoke_005",
+  "baseline_evidence": "qa/title/original_smoke_004",
+  "consumer_trace": "qa/title/trace_003/title_rle_reads.csv",
+  "qa_config": "config/mesen_title_qa.json",
+  "completed": ["PNG extraction", "AI logo edit", "4-color 2bpp conversion", "ROM insertion", "original roundtrip identity", "reproducible build", "experimental IPS apply identity", "cold boot", "Start input", "first-stage entry", "reset title", "sampled protected-pixel comparisons"],
+  "pending": ["user design review", "all-game shared-tile review", "independent emulator", "audio listening", "full playthrough"]
+}

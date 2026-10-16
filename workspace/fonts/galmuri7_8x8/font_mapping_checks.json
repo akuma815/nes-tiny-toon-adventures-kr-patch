@@ -1,0 +1,2654 @@
+[
+  {
+    "char": "가",
+    "atlas_xy": [
+      0,
+      0
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 16
+  },
+  {
+    "char": "갑",
+    "atlas_xy": [
+      136,
+      0
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "같",
+    "atlas_xy": [
+      200,
+      0
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "개",
+    "atlas_xy": [
+      224,
+      0
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "거",
+    "atlas_xy": [
+      384,
+      8
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "걸",
+    "atlas_xy": [
+      448,
+      8
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "것",
+    "atlas_xy": [
+      24,
+      16
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "게",
+    "atlas_xy": [
+      96,
+      16
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "겠",
+    "atlas_xy": [
+      256,
+      16
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "결",
+    "atlas_xy": [
+      384,
+      16
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "고",
+    "atlas_xy": [
+      256,
+      24
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "골",
+    "atlas_xy": [
+      320,
+      24
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "구",
+    "atlas_xy": [
+      352,
+      40
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "굴",
+    "atlas_xy": [
+      416,
+      40
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "그",
+    "atlas_xy": [
+      448,
+      56
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 15
+  },
+  {
+    "char": "근",
+    "atlas_xy": [
+      480,
+      56
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "금",
+    "atlas_xy": [
+      64,
+      64
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "긋",
+    "atlas_xy": [
+      88,
+      64
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 18
+  },
+  {
+    "char": "기",
+    "atlas_xy": [
+      384,
+      64
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 15
+  },
+  {
+    "char": "까",
+    "atlas_xy": [
+      96,
+      72
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "끝",
+    "atlas_xy": [
+      232,
+      136
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 29
+  },
+  {
+    "char": "나",
+    "atlas_xy": [
+      192,
+      144
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "난",
+    "atlas_xy": [
+      224,
+      144
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "날",
+    "atlas_xy": [
+      256,
+      144
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "났",
+    "atlas_xy": [
+      352,
+      144
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "내",
+    "atlas_xy": [
+      416,
+      144
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "너",
+    "atlas_xy": [
+      64,
+      160
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 18
+  },
+  {
+    "char": "네",
+    "atlas_xy": [
+      288,
+      160
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "녕",
+    "atlas_xy": [
+      168,
+      168
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "느",
+    "atlas_xy": [
+      128,
+      208
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 15
+  },
+  {
+    "char": "는",
+    "atlas_xy": [
+      160,
+      208
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "늘",
+    "atlas_xy": [
+      192,
+      208
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "니",
+    "atlas_xy": [
+      64,
+      216
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 16
+  },
+  {
+    "char": "다",
+    "atlas_xy": [
+      288,
+      216
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "당",
+    "atlas_xy": [
+      456,
+      216
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "더",
+    "atlas_xy": [
+      160,
+      232
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "덕",
+    "atlas_xy": [
+      168,
+      232
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "데",
+    "atlas_xy": [
+      384,
+      232
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "도",
+    "atlas_xy": [
+      32,
+      248
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "돌",
+    "atlas_xy": [
+      96,
+      248
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "되",
+    "atlas_xy": [
+      192,
+      256
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "둘",
+    "atlas_xy": [
+      192,
+      264
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "뒀",
+    "atlas_xy": [
+      0,
+      272
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "든",
+    "atlas_xy": [
+      256,
+      280
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "디",
+    "atlas_xy": [
+      160,
+      288
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "또",
+    "atlas_xy": [
+      128,
+      320
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "라",
+    "atlas_xy": [
+      480,
+      360
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "란",
+    "atlas_xy": [
+      0,
+      368
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "랑",
+    "atlas_xy": [
+      136,
+      368
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "러",
+    "atlas_xy": [
+      352,
+      376
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "런",
+    "atlas_xy": [
+      384,
+      376
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "럼",
+    "atlas_xy": [
+      480,
+      376
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 27
+  },
+  {
+    "char": "렇",
+    "atlas_xy": [
+      56,
+      384
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "려",
+    "atlas_xy": [
+      288,
+      384
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "로",
+    "atlas_xy": [
+      224,
+      392
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "룬",
+    "atlas_xy": [
+      352,
+      408
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "르",
+    "atlas_xy": [
+      416,
+      424
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "를",
+    "atlas_xy": [
+      480,
+      424
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 27
+  },
+  {
+    "char": "리",
+    "atlas_xy": [
+      352,
+      432
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "마",
+    "atlas_xy": [
+      64,
+      440
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "만",
+    "atlas_xy": [
+      96,
+      440
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "많",
+    "atlas_xy": [
+      112,
+      440
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 27
+  },
+  {
+    "char": "맥",
+    "atlas_xy": [
+      296,
+      440
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "면",
+    "atlas_xy": [
+      416,
+      456
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "명",
+    "atlas_xy": [
+      40,
+      464
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "몇",
+    "atlas_xy": [
+      56,
+      464
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "모",
+    "atlas_xy": [
+      320,
+      464
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "목",
+    "atlas_xy": [
+      328,
+      464
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "몬",
+    "atlas_xy": [
+      352,
+      464
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "무",
+    "atlas_xy": [
+      416,
+      480
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "미",
+    "atlas_xy": [
+      448,
+      504
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "밥",
+    "atlas_xy": [
+      296,
+      512
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 29
+  },
+  {
+    "char": "버",
+    "atlas_xy": [
+      32,
+      528
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "보",
+    "atlas_xy": [
+      416,
+      536
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "볼",
+    "atlas_xy": [
+      480,
+      536
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "봐",
+    "atlas_xy": [
+      128,
+      544
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "분",
+    "atlas_xy": [
+      32,
+      560
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "블",
+    "atlas_xy": [
+      160,
+      576
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "사",
+    "atlas_xy": [
+      352,
+      656
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "상",
+    "atlas_xy": [
+      8,
+      664
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "서",
+    "atlas_xy": [
+      224,
+      672
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "세",
+    "atlas_xy": [
+      448,
+      672
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "셋",
+    "atlas_xy": [
+      88,
+      680
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "셜",
+    "atlas_xy": [
+      224,
+      680
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "숨",
+    "atlas_xy": [
+      320,
+      704
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "쉽",
+    "atlas_xy": [
+      488,
+      712
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "스",
+    "atlas_xy": [
+      288,
+      720
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 13
+  },
+  {
+    "char": "시",
+    "atlas_xy": [
+      224,
+      728
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 16
+  },
+  {
+    "char": "십",
+    "atlas_xy": [
+      360,
+      728
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "아",
+    "atlas_xy": [
+      32,
+      808
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "안",
+    "atlas_xy": [
+      64,
+      808
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "애",
+    "atlas_xy": [
+      256,
+      808
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "야",
+    "atlas_xy": [
+      480,
+      808
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "약",
+    "atlas_xy": [
+      488,
+      808
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "어",
+    "atlas_xy": [
+      416,
+      816
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "언",
+    "atlas_xy": [
+      448,
+      816
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "얼",
+    "atlas_xy": [
+      480,
+      816
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "었",
+    "atlas_xy": [
+      64,
+      824
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "에",
+    "atlas_xy": [
+      128,
+      824
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "엔",
+    "atlas_xy": [
+      160,
+      824
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "여",
+    "atlas_xy": [
+      352,
+      824
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "역",
+    "atlas_xy": [
+      360,
+      824
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "예",
+    "atlas_xy": [
+      64,
+      832
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "온",
+    "atlas_xy": [
+      320,
+      832
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "와",
+    "atlas_xy": [
+      0,
+      840
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "왔",
+    "atlas_xy": [
+      160,
+      840
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "운",
+    "atlas_xy": [
+      416,
+      848
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "위",
+    "atlas_xy": [
+      32,
+      864
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "유",
+    "atlas_xy": [
+      256,
+      864
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "으",
+    "atlas_xy": [
+      480,
+      864
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "을",
+    "atlas_xy": [
+      32,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "음",
+    "atlas_xy": [
+      96,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "의",
+    "atlas_xy": [
+      192,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "이",
+    "atlas_xy": [
+      416,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "인",
+    "atlas_xy": [
+      448,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "일",
+    "atlas_xy": [
+      480,
+      872
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "있",
+    "atlas_xy": [
+      64,
+      880
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "자",
+    "atlas_xy": [
+      128,
+      880
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "잡",
+    "atlas_xy": [
+      264,
+      880
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "정",
+    "atlas_xy": [
+      168,
+      896
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "져",
+    "atlas_xy": [
+      448,
+      896
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "조",
+    "atlas_xy": [
+      384,
+      904
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 18
+  },
+  {
+    "char": "좋",
+    "atlas_xy": [
+      88,
+      912
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 25
+  },
+  {
+    "char": "줄",
+    "atlas_xy": [
+      32,
+      928
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "중",
+    "atlas_xy": [
+      136,
+      928
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 21
+  },
+  {
+    "char": "줘",
+    "atlas_xy": [
+      192,
+      928
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "즐",
+    "atlas_xy": [
+      128,
+      944
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "지",
+    "atlas_xy": [
+      0,
+      952
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 20
+  },
+  {
+    "char": "집",
+    "atlas_xy": [
+      136,
+      952
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "쭐",
+    "atlas_xy": [
+      128,
+      1000
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "찾",
+    "atlas_xy": [
+      496,
+      1024
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "출",
+    "atlas_xy": [
+      224,
+      1072
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "커",
+    "atlas_xy": [
+      288,
+      1112
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "쾌",
+    "atlas_xy": [
+      96,
+      1136
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 28
+  },
+  {
+    "char": "크",
+    "atlas_xy": [
+      352,
+      1160
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "큰",
+    "atlas_xy": [
+      384,
+      1160
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "키",
+    "atlas_xy": [
+      288,
+      1168
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 17
+  },
+  {
+    "char": "타",
+    "atlas_xy": [
+      0,
+      1176
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "태",
+    "atlas_xy": [
+      224,
+      1176
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 27
+  },
+  {
+    "char": "터",
+    "atlas_xy": [
+      384,
+      1184
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "트",
+    "atlas_xy": [
+      448,
+      1232
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      6
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "튼",
+    "atlas_xy": [
+      480,
+      1232
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "파",
+    "atlas_xy": [
+      96,
+      1248
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "퍼",
+    "atlas_xy": [
+      480,
+      1256
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "플",
+    "atlas_xy": [
+      96,
+      1312
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 29
+  },
+  {
+    "char": "피",
+    "atlas_xy": [
+      480,
+      1312
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 23
+  },
+  {
+    "char": "하",
+    "atlas_xy": [
+      192,
+      1320
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 19
+  },
+  {
+    "char": "한",
+    "atlas_xy": [
+      224,
+      1320
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 22
+  },
+  {
+    "char": "해",
+    "atlas_xy": [
+      416,
+      1320
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "햄",
+    "atlas_xy": [
+      32,
+      1328
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 32
+  },
+  {
+    "char": "행",
+    "atlas_xy": [
+      72,
+      1328
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 28
+  },
+  {
+    "char": "험",
+    "atlas_xy": [
+      192,
+      1336
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "혼",
+    "atlas_xy": [
+      480,
+      1344
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 26
+  },
+  {
+    "char": "화",
+    "atlas_xy": [
+      160,
+      1352
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 24
+  },
+  {
+    "char": "활",
+    "atlas_xy": [
+      224,
+      1352
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 28
+  },
+  {
+    "char": "히",
+    "atlas_xy": [
+      64,
+      1392
+    ],
+    "ink_bbox": [
+      0,
+      0,
+      6,
+      7
+    ],
+    "ttf_matching_y_offsets": [
+      -1
+    ],
+    "ink_pixels": 18
+  }
+]

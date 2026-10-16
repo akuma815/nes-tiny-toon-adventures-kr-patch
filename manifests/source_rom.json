@@ -1,0 +1,13 @@
+{
+    "schema_version":  1,
+    "game":  "Tiny Toon Adventures",
+    "platform":  "NES",
+    "path":  "original/rom/Tiny Toon Adventures (Japan).nes",
+    "received_filename":  "Tiny Toon Adventures (Japan).nes",
+    "size_bytes":  262160,
+    "sha256":  "73300dc1505564827ef95ba3e2a06c26aa48920e4981195f32b2101c185ef3dd",
+    "region_hint_from_filename":  "Japan",
+    "region_verification":  "pending",
+    "revision":  null,
+    "registered_on":  "2026-10-01"
+}
